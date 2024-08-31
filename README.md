@@ -1,0 +1,1 @@
+To Successfully run this project, unzip the dataset and palce it in the project directory - change the directories inside the code to respected paths, and also install some libraries like tensorflow - run the ipynb file called model training and can also run the flask application
